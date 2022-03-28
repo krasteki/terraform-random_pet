@@ -8,7 +8,7 @@ terraform {
 }
 
 resource "random_pet" "s3_name" {
-  length    = 3
-  separator = "-"
+  length    = var.names
+  separator = var.sep
   prefix    = "HashiCorp"
 }

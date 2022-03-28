@@ -4,6 +4,8 @@ The resource `random_pet` generates random pet names that are intended to be use
 
 Added `outputs` in branch `add-outputs`
 
+Added "variables` int branch `add-variables`
+
 #### Prerequisites
 
 The [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli), version used 1.1.6
