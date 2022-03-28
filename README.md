@@ -2,6 +2,7 @@
 
 The resource `random_pet` generates random pet names that are intended to be used as unique identifiers for other resources.
 
+Added `outputs` in branch `add-outputs`
 
 #### Prerequisites
 
